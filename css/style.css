@@ -1,0 +1,131 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: #EAF6F6;
+}
+hr{
+    border-style: dotted none none;
+    margin-left: 45%;
+    width: 7%;
+    border-color: rgb(196, 147, 44);
+    border-width: 5px; 
+}
+h1 {
+    color: #db8d17;
+    font-family: cursive;
+    font-size: 50px;
+}
+h3{
+    color: #db8d17;
+    font-style: italic;
+    padding-top:10px;
+    padding-left: 10px;
+}
+ul {
+    padding-left: 10px;
+}
+
+.container{
+    display: flex;
+    padding-left: 10px;
+}
+.left-col{
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.right-col{
+    width: 60%;
+}
+table {
+    padding:10px;
+}
+
+.secondsection {
+    background-color: #aa98b5;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    
+}
+#firstclass {
+    background-color: #897098;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%; 
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;   
+}
+
+#contact {
+    
+    background-color: #cbc1d2;
+    margin-bottom: 30px;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    border-bottom-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    
+}
+#gallery{
+    background-color: #b497c9;
+    margin-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.pictures {
+border-radius: 50%;
+}
+.my {
+    text-align: center;
+}
+.me {
+    padding-left: 45%;
+    color: #db8d17;
+
+}
+#hobbies {
+    padding-left: 44%;
+}
+.image {
+    border-radius: 50%;
+}
+.Top {
+    padding-left: 90%;
+}
+.clues{
+    padding-left: 10%;
+}
+.row {
+    float: left;
+    width: 25%;
+    padding: 10px;
+}
+.column{
+    float: left;
+    width: 25%;
+    padding: 10px;
+}
+.container1 {
+    flex-wrap: wrap;
+    background-color: white;
+
+}
+.potos {
+padding-left: 45%;
+}
+
+.seven{
+    padding-left: 2%;
+}
+.images {
+    padding: 10px;
+}
+.facebook {
+    border-radius: 50%;
+}
